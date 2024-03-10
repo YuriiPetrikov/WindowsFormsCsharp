@@ -1,0 +1,10 @@
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\bin\Debug\Игра в 15 (пятнашки).exe.config
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\bin\Debug\Игра в 15 (пятнашки).exe
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\bin\Debug\Игра в 15 (пятнашки).pdb
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра в 15 (пятнашки).csproj.AssemblyReference.cache
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра_в_15__пятнашки_.Properties.Resources.resources
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра в 15 (пятнашки).csproj.GenerateResource.cache
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра в 15 (пятнашки).csproj.CoreCompileInputs.cache
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра в 15 (пятнашки).exe
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра в 15 (пятнашки).pdb
+C:\Users\Yuriy\source\repos\Игра в 15 (пятнашки)\obj\Debug\Игра_в_15__пятнашки_.FormGame15.resources
