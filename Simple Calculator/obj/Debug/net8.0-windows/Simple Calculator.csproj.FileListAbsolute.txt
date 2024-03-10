@@ -1,0 +1,17 @@
+C:\Users\Yuriy\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.exe
+C:\Users\Yuriy\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.deps.json
+C:\Users\Yuriy\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.runtimeconfig.json
+C:\Users\Yuriy\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Yuriy\source\repos\Simple Calculator\bin\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.AssemblyInfo.cs
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.dll
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\refint\Simple Calculator.dll
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.pdb
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.genruntimeconfig.cache
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\ref\Simple Calculator.dll
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple_Calculator.Form1.resources
+C:\Users\Yuriy\source\repos\Simple Calculator\obj\Debug\net8.0-windows\Simple Calculator.sourcelink.json
