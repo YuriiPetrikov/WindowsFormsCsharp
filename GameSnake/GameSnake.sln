@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSnake", "GameSnake.csproj", "{3D695059-3445-4FF6-B4CF-82415694CFDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{87F5C202-DA9F-4979-A711-AC2124A937BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D695059-3445-4FF6-B4CF-82415694CFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D695059-3445-4FF6-B4CF-82415694CFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D695059-3445-4FF6-B4CF-82415694CFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D695059-3445-4FF6-B4CF-82415694CFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75106306-EBC8-428F-8031-DBAAC782A93C}
+	EndGlobalSection
+EndGlobal
